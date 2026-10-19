@@ -6,14 +6,6 @@ A multi-agent AI app that turns any topic into a structured, sourced research re
 
 Researching a topic by hand means searching, reading, comparing sources, and writing everything up. This project automates that workflow. You type a topic, and a small team of AI agents searches the web, analyzes what it finds, and writes a clean markdown report with headings, key findings, risks, opportunities, and a conclusion.
 
-## Screenshot
-
-Add a screenshot of the app here after you take one, for example `docs/screenshot.png`:
-
-```
-![App screenshot](docs/screenshot.png)
-```
-
 ## How it works
 
 1. **Researcher** searches the web (Tavily) and reads pages to collect recent, credible findings.
