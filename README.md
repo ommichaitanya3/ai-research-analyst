@@ -102,3 +102,9 @@ crewai run
 ## Configuration
 
 - **Change the model:** edit the
+
+# AI Research Analyst
+
+**Live Demo:** https://ai-research-analyst-dmtw3i34g7hj7zi7fjlfpb.streamlit.app/
+
+A multi-agent AI application that researches topics and generates structured reports using CrewAI, Google Gemini, Tavily, and Streamlit.
